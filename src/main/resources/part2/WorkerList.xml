@@ -4,7 +4,6 @@
         <position>simple worker</position>
         <additionalInfo sinceYear = "2018" company = "Company 1"/>
     </worker>
-
     <worker>
         <login>worker2</login>
         <position>director assistant</position>
